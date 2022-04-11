@@ -1,7 +1,7 @@
 ### oiê! me chamo Márcia Jôsy 👩🏻‍💻
 
 - 👩🏻‍🎓 sou graduada em gestão de TI
-- 🔭 trabalho com qualidade de software
+- 🔭 sou quality assurance atuante numa empresa massa!
 - 🌱 estou estudando AWS, RobotFramework e RestAssured
 - 😄 pronomes: ela/dela
 
