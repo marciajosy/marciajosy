@@ -1,5 +1,5 @@
 <p align="left">
-### oiê! me chamo Márcia Jôsy 👩🏻‍💻<br>
+#### oiê! me chamo Márcia Jôsy 👩🏻‍💻
  - 👩🏻‍🎓 graduada em gestão de TI<br>
  - 🔭 sou quality assurance atuante numa empresa massa!<br>
  - 🌱 estou estudando AWS, RobotFramework e RestAssured<br>
@@ -32,13 +32,6 @@
 ###
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marciajosy.marciajosy&"  />
-</div>
-
-###
-<div align="center">
-  <a href="https://open.spotify.com/user/marciajosy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=marciajosy&count=1&unique=false" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
