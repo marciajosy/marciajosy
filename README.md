@@ -1,22 +1,44 @@
-### oiê! me chamo Márcia Jôsy 👩🏻‍💻
+<p align="left">
+### oiê! me chamo Márcia Jôsy 👩🏻‍💻<br>
+ - 👩🏻‍🎓 graduada em gestão de TI<br>
+ - 🔭 sou quality assurance atuante numa empresa massa!<br>
+ - 🌱 estou estudando AWS, RobotFramework e RestAssured<br>
+ - 😄 pronomes: ela/dela</p>
 
-- 👩🏻‍🎓 sou graduada em gestão de TI
-- 🔭 sou quality assurance atuante numa empresa massa!
-- 🌱 estou estudando AWS, RobotFramework e RestAssured
-- 😄 pronomes: ela/dela
-
-
-<div display = "flex ">
- <img height= 180px width= 400px src ='https://github-readme-stats.vercel.app/api?username=marciajosy&count_private=true&show_icons=true&show_icons=true&theme=dracula'>
- <img height= 180px width= 400px  src ='https://github-readme-stats.vercel.app/api/top-langs/?username=marciajosy&repo=github-readme-stats&count_private=true&show_icons=true&show_icons=true&theme=dracula&layout=compact'>
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=pt-br&hide_border=false&username=marciajosy" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&username=marciajosy" height="150" alt="languages graph"  />
 </div>
-   
-  <div style="display: inline_block"><br>    
-  <img align="center" alt="MJ-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="MJ-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+###
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" width="49" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="33" width="49" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="33" width="49" alt="ruby logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" width="49" alt="javascript logo"  />
 </div>
-  
-  
- <div> 
-  <a href = "mailto:marciajosyss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marciajosy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+
+###
+<div align="center">
+  <a href="https://www.linkedin.com/in/marciajosy/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="28" alt="linkedin logo"  />
+  </a>
+  <a href="malito:marciajosyss@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="28" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=marciajosy.marciajosy&"  />
+</div>
+
+###
+<div align="center">
+  <a href="https://open.spotify.com/user/marciajosy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=marciajosy&count=1&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
