@@ -1,5 +1,5 @@
 <p align="left">
-#### oiê! me chamo Márcia Jôsy 👩🏻‍💻
+oiê! me chamo Márcia Jôsy 👩🏻‍💻<br>
  - 👩🏻‍🎓 graduada em gestão de TI<br>
  - 🔭 sou quality assurance atuante numa empresa massa!<br>
  - 🌱 estou estudando AWS, RobotFramework e RestAssured<br>
