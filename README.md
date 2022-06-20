@@ -1,18 +1,15 @@
-<p align="left">
-oiê! me chamo Márcia Jôsy 👩🏻‍💻<br>
- - 👩🏻‍🎓 graduada em gestão de TI<br>
- - 🔭 sou quality assurance atuante numa empresa massa!<br>
- - 🌱 estou estudando AWS, RobotFramework e RestAssured<br>
- - 😄 pronomes: ela/dela</p>
+<p align="left">Oiê! me chamo Márcia Jôsy 👩🏻‍💻<br>- 👩🏻‍🎓 graduada em gestão de TI<br>- 🔭 sou quality assurance atuante numa empresa massa!<br>- 🌱 estou estudando AWS, RobotFramework e RestAssured<br>- 😄 pronomes: ela/dela</p>
 
 ###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=pt-br&hide_border=false&username=marciajosy" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&username=marciajosy" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=pt-br&hide_border=true&username=marciajosy" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=default &card_width=320&langs_count=5&theme=cobalt&hide_border=true&username=marciajosy" height="150" alt="languages graph"  />
 </div>
 
 ###
-<div align="center">
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" width="49" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="33" width="49" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="33" width="49" alt="ruby logo"  />
@@ -20,7 +17,8 @@ oiê! me chamo Márcia Jôsy 👩🏻‍💻<br>
 </div>
 
 ###
-<div align="center">
+
+<div align="left">
   <a href="https://www.linkedin.com/in/marciajosy/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="28" alt="linkedin logo"  />
   </a>
@@ -30,6 +28,7 @@ oiê! me chamo Márcia Jôsy 👩🏻‍💻<br>
 </div>
 
 ###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marciajosy.marciajosy&"  />
 </div>
