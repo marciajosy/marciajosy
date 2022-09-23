@@ -1,5 +1,13 @@
 <p align="left">Oiê! me chamo Márcia Jôsy 👩🏻‍💻<br>- 👩🏻‍🎓 graduada em gestão de TI<br>- 🔭 sou quality assurance atuante numa empresa massa!<br>- 🌱 estou estudando AWS, RobotFramework e RestAssured<br>- 😄 pronomes: ela/dela</p>
 
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=pt-br&hide_border=true&username=marciajosy" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=default &card_width=320&langs_count=5&theme=cobalt&hide_border=true&username=marciajosy" height="150" alt="languages graph"  />
+</div>
+
 ###
 
 <div align="left">
