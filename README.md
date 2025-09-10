@@ -18,18 +18,6 @@
 </div>
 
 ###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/marciajosy/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="28" alt="linkedin logo"  />
-  </a>
-  <a href="malito:marciajosyss@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="28" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marciajosy.marciajosy&"  />
 </div>
